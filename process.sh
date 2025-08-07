@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-VERSION=0-1-0
+VERSION=0-1-1
 AWS_PATH="s3://dep-public-staging/dep_osm_buildings"
 
 ogr2ogr australia-oceania-latest.osm.gpkg \
