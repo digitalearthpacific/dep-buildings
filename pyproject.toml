@@ -1,0 +1,10 @@
+[project]
+name = "dep-buildings"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "apache-sedona[db]>=1.8.0",
+    "geopandas>=1.1.1",
+]
